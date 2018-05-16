@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  details: MyText
+  company: one
+  status: 1
+  averagemark: 1.5
+
+two:
+  title: MyString
+  details: MyText
+  company: two
+  status: 1
+  averagemark: 1.5
